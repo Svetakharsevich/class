@@ -1,0 +1,12 @@
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\bin\Debug\класс.exe.config
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\bin\Debug\класс.exe.manifest
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\bin\Debug\класс.application
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\bin\Debug\класс.exe
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\bin\Debug\класс.pdb
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\obj\Debug\класс.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\obj\Debug\класс.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\obj\Debug\класс.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\obj\Debug\класс.exe.manifest
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\obj\Debug\класс.application
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\obj\Debug\класс.exe
+C:\Users\Home\Desktop\Алгоритмизация\класс\класс\obj\Debug\класс.pdb
